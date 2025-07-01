@@ -40,6 +40,7 @@
 
 ## Routemap & Priorities
 
+
 | Phase | Activity                                      | Priority | Owner(s)                | Status   | Notes                                  |
 |-------|-----------------------------------------------|----------|-------------------------|----------|----------------------------------------|
 | 1     | Project repository & license setup            | High     | Core Team               | Backlog  | Choose MIT/Apache 2.0 license          |
