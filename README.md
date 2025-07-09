@@ -76,3 +76,32 @@ Let’s build, learn, and share together!
 ---
 
 Ready to contribute? Fork, clone, and let’s get started!
+
+
+# Logbook
+
+## EC2  
+>For detailed progress and technical notes, please refer to the [EC2.md](./EC2.md file.
+
+**Owner:** hugo.gif@gmail.com
+**<br>Team:** TBD
+
+**Summary of EC2.md:** 
+
+The EC2.md document describes the initial implementation of EC2 emulation using KubeVirt within the LCloud project. It covers the installation steps for KubeVirt, the setup of persistent storage, and the deployment of a sample Virtual Machine Instance (VMI). The document also outlines the tools and commands used, such as `virtctl` for image uploads and VNC access, and provides YAML examples for resource definitions. This initial version focuses on basic VM lifecycle management and storage integration, with advanced networking (Multus) planned for future iterations.
+
+
+## S3 (MinIO) integration
+> Backlog
+
+## Lambda (OpenFaaS/Knative) integration
+> Backlog
+
+## Athena (PrestoDB) integration
+> Backlog
+
+## AppSync (Hasura/Apollo) integration
+> Backlog
+
+## Define architecture & service mapping
+> Backlog
